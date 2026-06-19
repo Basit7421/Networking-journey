@@ -1,0 +1,35 @@
+Samajh gaya. Code box hata ke plain text de raha hun. Bas copy karke paste kar dena:
+
+---
+
+Networking-journey
+
+Documenting hands-on labs and configs for CCNA, MCSE, Firewall and Server Administration.
+
+🛠️ Skills Practiced
+
+*Networking - CCNA*
+- Router Configuration: Static, OSPF, EIGRP
+- Switch Configuration: VLANs, Trunking, STP
+- ACLs, NAT, DHCP
+- Tools: Packet Tracer, GNS3
+
+*Server - MCSE*
+- Active Directory: Domain Controller, OU, GPO, Users/Groups
+- Windows Server: DNS, DHCP, File Server
+- Hyper-V
+- *Workstation Setup:* Windows 10/11 Installation, Domain Join, User Profile Config, Software Deployment via GPO
+
+*Security*
+- Firewall rule configuration
+- Cisco ACL implementation
+- VPN Labs
+
+📂 Repo Structure
+/CCNA-Labs/
+/MCSE-AD/
+/Firewall/
+/Configs/
+/Workstation-Notes/
+---
+_Learning in progress - Updated Feb 2026_
