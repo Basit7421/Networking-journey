@@ -1,33 +1,37 @@
+# Networking-journey
 
+Documenting hands-on labs and configs for CCNA, CCNP, MCSE, Firewall and Server Administration.
 
-Networking-journey
+## 🛠️ Skills Practiced
 
-Documenting hands-on labs and configs for CCNA, MCSE, Firewall and Server Administration.
+### *Networking - CCNA*
+- **Router Configuration:** Static, OSPF, EIGRP
+- **Switch Configuration:** VLANs, Trunking, STP
+- **Core Concepts:** ACLs, NAT, DHCP
+- **Tools:** Packet Tracer, GNS3
 
-🛠️ Skills Practiced
+### *Networking - CCNP*
+- **CCNP ENCOR 350-401:**
+    - Advanced OSPF, BGP, EIGRP
+    - Wireless, QoS, IP Services
+    - SD-Access
+ Ansible
+- **CCNP ENARSI 300-410:**
+    - Advanced Layer 3: Route Maps, Redistribution, Policy-Based Routing
+    - VPN Technologies: DMVPN, IPsec, FlexVPN
+    - Infrastructure Security & Services
+    - Troubleshooting Complex Networks
+- **Tools:** EVE-NG, Cisco CML, Physical Lab
 
-*Networking - CCNA*
-- Router Configuration: Static, OSPF, EIGRP
-- Switch Configuration: VLANs, Trunking, STP
-- ACLs, NAT, DHCP
-- Tools: Packet Tracer, GNS3
+### *Server - MCSE*
+- **Active Directory:** Domain Controller, OU, GPO, Users/Groups
+- **Windows Server:** DNS, DHCP, File Server
+- **Virtualization:** Hyper-V
+- **Workstation Setup:** Windows 10/11 Installation, Domain Join, User Profile Config, Software Deployment via GPO
 
-*Server - MCSE*
-- Active Directory: Domain Controller, OU, GPO, Users/Groups
-- Windows Server: DNS, DHCP, File Server
-- Hyper-V
-- *Workstation Setup:* Windows 10/11 Installation, Domain Join, User Profile Config, Software Deployment via GPO
-
-*Security*
+### *Security*
 - Firewall rule configuration
 - Cisco ACL implementation
-- VPN Labs
+- VPN Labs: Site-to-Site, Remote Access
 
-📂 Repo Structure
-/CCNA-Labs/
-/MCSE-AD/
-/Firewall/
-/Configs/
-/Workstation-Notes/
----
-_Learning in progress - Updated Feb 2026_
+## 📂 Repo Structure
